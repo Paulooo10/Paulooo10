@@ -8,6 +8,4 @@ Bah moi c'est Paulo, je suis lycéen et passionné du code (comme tout le monde 
 - Les jeux vidéos
 
 ## Mes réseaux :
-```bash
-test
-```
+[Instagram](https://instagram.com/paulo.10_insta)
